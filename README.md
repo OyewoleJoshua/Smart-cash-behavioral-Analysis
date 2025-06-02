@@ -73,6 +73,6 @@ Analyzing personal financial data—especially from unstructured sources like PD
 For feedback, collaboration, or questions:
 
 **Email**: Oyewjoshua@gmail.com  
-**LinkedIn**: linkedin.com/in/oyewjoshua
+**LinkedIn**: (https://www.linkedin.com/in/joshuaoluwafemioyewole)
 
 
