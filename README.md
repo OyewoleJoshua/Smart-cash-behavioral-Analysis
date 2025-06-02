@@ -37,6 +37,19 @@ All cleaning and transformation were conducted in Microsoft Excel, following the
 3. **Data Structuring**  
    Corrected data types and created usable column formats for easier analysis.
 
+
+   ## Project Files
+
+- [Raw Data (PDF)]  [smartcash excel file.xlsx](https://github.com/user-attachments/files/20552300/smartcash.excel.file.xlsx)
+
+- [Cleaned Data (Excel)]  [NEWLY CLEANED SMARTCASH DATA.xlsx](https://github.com/user-attachments/files/20552302/NEWLY.CLEANED.SMARTCASH.DATA.xlsx)
+
+
+- [Visualizations Folder](visuals/) ![SMART CASH VISUALS](https://github.com/user-attachments/assets/6322e6cf-3112-4c7a-acf6-71aa1c792504)
+
+
+
+
 ## Data Analysis and Visualization
 
 Using **Pivot Tables** and **Excel Charts**, the cleaned dataset was analyzed and visualized to generate insights on:
