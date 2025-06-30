@@ -40,12 +40,14 @@ All cleaning and transformation were conducted in Microsoft Excel, following the
 
    ## Project Files
 
-- [Raw Data (PDF)]  [smartcash excel file.xlsx](https://github.com/user-attachments/files/20552300/smartcash.excel.file.xlsx)
+## 📂 Project Files
 
-- [Cleaned Data (Excel)]  [NEWLY CLEANED SMARTCASH DATA.xlsx](https://github.com/user-attachments/files/20552302/NEWLY.CLEANED.SMARTCASH.DATA.xlsx)
+- 📄 [Raw Data (Excel)](smartcash%20excel%20file.xlsx)
+- 📄 [Cleaned Data (Excel)](NEWLY%20CLEANED%20SMARTCASH%20DATA.xlsx)
+- 📁 [Visualizations Folder](visuals/)
 
+![SMART CASH VISUALS](SMART%20CASH%20VISUALS.png)
 
-- [Visualizations Folder](visuals/) ![SMART CASH VISUALS](https://github.com/user-attachments/assets/6322e6cf-3112-4c7a-acf6-71aa1c792504)
 
 
 
