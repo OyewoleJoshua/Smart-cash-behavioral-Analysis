@@ -44,9 +44,9 @@ All cleaning and transformation were conducted in Microsoft Excel, following the
 
 - 📄 [Raw Data (Excel)](smartcash%20excel%20file.xlsx)
 - 📄 [Cleaned Data (Excel)](NEWLY%20CLEANED%20SMARTCASH%20DATA.xlsx)
-- 📁 [Visualizations Folder](visuals/)
+- 📁 ![SMART CASH VISUALS](SMART%20CASH%20VISUALS.PNG)
 
-![SMART CASH VISUALS](SMART%20CASH%20VISUALS.png)
+
 
 
 
